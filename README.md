@@ -45,7 +45,7 @@ A library that parses user input into specified datatypes
  |	@return:	ull_input,			The number the user entered.
  +-- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
  | 	Errors:		Entering a non number value will cause unexpected results.
- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+ +-- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
  */
  
  
